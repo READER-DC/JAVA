@@ -20,7 +20,6 @@ public class Car {
         this.model = "Mercedes"; 
     }
 
-
     double getFuelAmount() {
         return fuelAmount;
     }
