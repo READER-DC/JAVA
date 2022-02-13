@@ -1,0 +1,3 @@
+class UnitIsDead extends Exception {
+    
+}
